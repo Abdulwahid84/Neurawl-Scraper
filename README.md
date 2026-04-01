@@ -299,11 +299,6 @@ Contributions welcome! Areas to help:
 - Performance optimization
 - Documentation
 
----
-
-## 📄 License
-
-This project is open source and available for educational and personal use.
 
 ---
 
