@@ -1,4 +1,4 @@
-# 🕷️ Neurawl Scraper
+# 🕷️ Neurawl Scraper 
 
 An intelligent web scraper that automatically adapts to **any website and any query**. Built with AI-powered parsing that detects the best format for your data extraction needs.
 
